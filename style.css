@@ -31,7 +31,6 @@ a {
   display: grid;
   place-items: center;
   min-height: 100vh;
-  background-color: hsl(270, 20%, 96%);
 }
 
 .wrapper::before,
